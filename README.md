@@ -53,31 +53,6 @@ Created for **Inamiguous Foundation** to showcase:
 | **Version Control** | Git, GitHub |
 
 ---
-EduLearn-Education-Website/
-│
-├── app.py # Main Flask application
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-│
-├── templates/ # HTML templates
-│ ├── base.html # Base template with navbar & footer
-│ ├── index.html # Homepage
-│ ├── about.html # About page
-│ ├── courses.html # Courses catalog page
-│ ├── blog.html # Blog page
-│ └── contact.html # Contact page
-│
-├── static/ # Static files
-│ ├── css/
-│ │ └── style.css # Custom styles
-│ ├── js/
-│ │ └── script.js # JavaScript functionality
-│ └── images/ # Image assets
-│
-└── data/ # Data files
-└── courses.json # Course data
-
-
 ---
 
 ## 🚀 Installation & Setup
