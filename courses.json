@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Complete Web Development Bootcamp",
+        "category": "Development",
+        "level": "Beginner",
+        "price": 49.99,
+        "original_price": 199.99,
+        "description": "Learn HTML, CSS, JavaScript, React, Node.js and become a full-stack developer.",
+        "duration": "40 hours",
+        "students": 5234
+    },
+    {
+        "id": 2,
+        "title": "Data Science & Machine Learning",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "price": 59.99,
+        "original_price": 249.99,
+        "description": "Master Python, Pandas, NumPy, Scikit-learn, and build real ML projects.",
+        "duration": "50 hours",
+        "students": 3891
+    },
+    {
+        "id": 3,
+        "title": "Digital Marketing Masterclass",
+        "category": "Marketing",
+        "level": "Beginner",
+        "price": 39.99,
+        "original_price": 149.99,
+        "description": "Learn SEO, Social Media, Email Marketing, Google Ads, and Analytics.",
+        "duration": "30 hours",
+        "students": 2789
+    },
+    {
+        "id": 4,
+        "title": "UI/UX Design Fundamentals",
+        "category": "Design",
+        "level": "Beginner",
+        "price": 44.99,
+        "original_price": 179.99,
+        "description": "Master Figma, Adobe XD, user research, and prototyping.",
+        "duration": "25 hours",
+        "students": 1987
+    },
+    {
+        "id": 5,
+        "title": "Artificial Intelligence & Deep Learning",
+        "category": "Data Science",
+        "level": "Advanced",
+        "price": 79.99,
+        "original_price": 299.99,
+        "description": "Neural Networks, TensorFlow, PyTorch, Computer Vision, NLP.",
+        "duration": "60 hours",
+        "students": 1234
+    },
+    {
+        "id": 6,
+        "title": "Mobile App Development with Flutter",
+        "category": "Development",
+        "level": "Intermediate",
+        "price": 54.99,
+        "original_price": 199.99,
+        "description": "Build iOS and Android apps with Flutter and Dart.",
+        "duration": "35 hours",
+        "students": 1876
+    }
+]
